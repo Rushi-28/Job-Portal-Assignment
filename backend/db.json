@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "rushi@yopmail.com",
+      "password": "$2a$08$iw6f8TZfNnuF7XAIqiNfv.dadZjTc98CY2POJghNcyoa0NyicAHjm"
+    },
+    {
+      "email": "rushikesh@yopmail.com",
+      "password": "$2a$08$JGX7dDZE0v8plYfCH0vQv.oJ0APMiQtgly3hC53oGqOhK5Jd6gWPS"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "7e91657d-72a1-4c30-9990-ccdd8523127e",
+      "title": "Manager 1"
+    },
+    {
+      "id": "4567b20a-00e6-46c0-8b37-8029fbfed3fe",
+      "title": "ASE"
+    },
+    {
+      "id": "e9355ec7-3c40-410b-8edc-96df750bc892",
+      "title": "TL"
+    }
+  ]
+}
